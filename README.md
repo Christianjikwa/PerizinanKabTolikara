@@ -1,7 +1,7 @@
 # PerizinanKabTolikara
 Berikut merupakan crud PerizinanKabTolikara
 
-![Alt Text](path/to/image.png)
+![Alt Text](PerizinanKabTolikara/halaman_login.png)
 
 
 

@@ -1,6 +1,7 @@
 # PerizinanKabTolikara
 Berikut merupakan crud PerizinanKabTolikara
 
-![Alt Text](kamar/foto/halaman_login.png)
+![Alt Text](path/to/halaman_login.png)
+
 
 

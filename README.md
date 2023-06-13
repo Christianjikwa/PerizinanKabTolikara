@@ -11,8 +11,9 @@ Berikut merupakan halaman dashboard buat roll hasil_pegawai CIS PerizinanKabToli
 
 ![Alt Text](hasil_pegawai.png)
 
+Berikut merupakan halaman dashboard buat roll penegakan hukum CIS PerizinanKabTolikara
 
-
+![Alt Text](penegakan_hukum.png)
 
 
 

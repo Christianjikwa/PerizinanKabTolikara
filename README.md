@@ -7,6 +7,10 @@ Berikut merupakan halaman dashboard buat roll perizinan CIS PerizinanKabTolikara
 
 ![Alt Text](dashboard_perizinan.png)
 
+Berikut merupakan halaman dashboard buat roll hasil_pegawai CIS PerizinanKabTolikara
+
+![Alt Text](hasil_pegawai.png)
+
 
 
 
